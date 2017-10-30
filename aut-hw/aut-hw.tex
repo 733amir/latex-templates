@@ -5,23 +5,31 @@
 \newcommand{\stdnum}{Student Number}
 
 
-\documentclass[10pt, a4paper]{article}
+\documentclass[a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 	\graphicspath{ {images/} }
 
 
+% First page
 \title{
 	\includegraphics{aut-logo.png}\\
-	AUT, CEIT \course \\
-	\numofhw Homework
+	AUT, CEIT, \course \\
+	\numofhw\ Homework
 }
-\author{\writer - \stdnum}
+\author{\writer\ -\ \stdnum}
 \date{\today}
+
 
 \begin{document}
 
 \maketitle
+\thispagestyle{empty}
 \pagebreak
+\pagenumbering{arabic}
+
+\section{Title}
+
+\section{References}
 
 \end{document}
