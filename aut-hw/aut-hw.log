@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2017.10.24)  30 OCT 2017 23:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2017.10.24)  30 OCT 2017 23:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -367,18 +367,18 @@ File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 ) (./aut-hw.aux)
 \openout1 = `aut-hw.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -449,35 +449,35 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-<aut-logo.png, id=1, 180.675pt x 180.675pt>
-File: aut-logo.png Graphic file (type png)
-<use aut-logo.png>
-Package pdftex.def Info: aut-logo.png  used on input line 23. on input line 23.
-
+<images/aut-logo.png, id=1, 180.675pt x 180.675pt>
+File: images/aut-logo.png Graphic file (type png)
+<use images/aut-logo.png>
+Package pdftex.def Info: images/aut-logo.png  used on input line 24. on input l
+ine 24.
 Package pdftex.def Info: Requested size: 180.67455pt x 180.67455pt on input lin
-e 23.
+e 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 23.
+(Font)              <12> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 23.
+(Font)              <8> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 23.
+(Font)              <6> on input line 24.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./aut-logo.png>] (./aut-hw
-.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/aut-logo.png>] (.
+/aut-hw.aux) ) 
 Here is how much of TeX's memory you used:
- 1742 strings out of 492990
- 22532 string characters out of 6138687
- 78537 words of memory out of 5000000
+ 1743 strings out of 492990
+ 22567 string characters out of 6138687
+ 78550 words of memory out of 5000000
  5295 multiletter control sequences out of 15000+600000
  6675 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,25p,273b,220s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/sh
-are/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on aut-hw.pdf (1 page, 91024 bytes).
+ 41i,6n,25p,273b,225s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on aut-hw.pdf (1 page, 83977 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  14 compressed objects within 1 object stream
