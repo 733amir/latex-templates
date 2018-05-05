@@ -10,6 +10,8 @@
 \usepackage{graphicx}
 	\graphicspath{ {images/} }
 \usepackage{subcaption}
+\usepackage{hyperref}
+\usepackage[usenames, dvipsnames]{color}
 
 
 % First page
@@ -23,14 +25,26 @@
 
 
 \begin{document}
+	
+	\maketitle
+	\thispagestyle{empty}
+	\tableofcontents
+	\pagebreak
+	
+	% Second page
+	\pagenumbering{arabic}
 
-\maketitle
-\thispagestyle{empty}
-\pagebreak
-\pagenumbering{arabic}
+\section{Title 1}
 
-\section{Title}
+How to cite a reference. \cite{refrence-label}
 
-\section{References}
+\section{Title 2}
+
+\begin{thebibliography}{99}
+	
+	\bibitem{refrence-label}
+	Information on our reference.
+	
+\end{thebibliography}
 
 \end{document}
