@@ -3,6 +3,7 @@
 \newcommand{\numofhw}{Number of Homework}
 \newcommand{\writer}{Name of Author}
 \newcommand{\stdnum}{Student Number}
+\newcommand{\slfrac}[2]{\left.#1\middle/#2\right.}
 
 
 \documentclass[a4paper]{article}
@@ -12,6 +13,7 @@
 \usepackage{subcaption}
 \usepackage{hyperref}
 \usepackage[usenames, dvipsnames]{color}
+\usepackage{amsmath}
 
 
 % First page
@@ -34,11 +36,23 @@
 	% Second page
 	\pagenumbering{arabic}
 
-\section{Title 1}
+\section{Citation}
 
 How to cite a reference. \cite{refrence-label}
 
-\section{Title 2}
+\section{Multi-line Equation}
+
+\begin{equation}
+	\label{eq:1}
+	\begin{aligned}
+		\frac{123}{456} \\
+		\slfrac{123}{456}
+	\end{aligned}
+\end{equation}
+
+\section{Referencing}
+
+Referencing the equation \ref{eq:1} is easy.
 
 \begin{thebibliography}{99}
 	
